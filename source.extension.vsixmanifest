@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="LocalConsole.Company.f2a95108-55ff-4bd1-b43f-f0489a9d0de6" Version="1.0.1" Language="en-US" Publisher="Leandro Cotrim" />
-    <DisplayName>LocalConsole</DisplayName>
-    <Description xml:space="preserve">This project will open the cmd in with solution path</Description>
+    <Identity Id="LocalConsole.Company.f2a95108-55ff-4bd1-b43f-f0489a9d0de6" Version="1.0.2" Language="en-US" Publisher="Leandro Cotrim" />
+    <DisplayName>Open Local Console Soluction Path</DisplayName>
+    <Description xml:space="preserve">This project will open the cmd in with solution path
+Open Local Console Soluction Path</Description>
     <Icon>Resources\logo.PNG</Icon>
     <PreviewImage>Resources\logo.PNG</PreviewImage>
-    <Tags>local console</Tags>
+    <Tags>Open Local Console Soluction Path</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
